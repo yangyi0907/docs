@@ -1,1 +1,29 @@
-欢迎访问
+
+* [软体笔记](课程\软件体系结构)
+* [Redis6](Redis6\Redis6)
+* [nginx](nginx/nginx简介)
+* 算法笔记
+    * [LeetCode总结](算法\LeetCode\刷题笔记)
+    * [KMP总结](算法\笔记\KMP)
+    * [位运算](算法\笔记\位运算)
+    * [查找算法](算法\笔记\查找算法)
+    * [排序算法](算法\笔记\排序算法)
+    * [二叉树](算法\笔记\二叉树)
+    * [动态规划](算法\笔记\动态规划)
+    * [回溯算法](算法\笔记\回溯算法)
+    * [贪心算法](算法\笔记\贪心算法)
+* java
+    * [idea快捷键](java/idea)
+    * [java必备单词](java/程序员单词)
+* python
+    * [python基础](python/python基础)
+    * [python爬虫Urllib](python/python爬虫/Urllib)
+* 前端技术
+    * [Vue.js入门](前端技术\Vue.js入门)
+    * [Node.js](前端技术\Vue.js入门)
+    * [ES6入门](前端技术\ES6入门)
+    * [Babel](前端技术\Babel)
+    * [模块化](前端技术\模块化)
+    * [Webpack](前端技术\Webpack)
+    * [NMP](前端技术\NMP)
+    * [vue-element框架](前端技术\vue-element-admin)
