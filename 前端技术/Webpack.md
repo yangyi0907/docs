@@ -4,7 +4,7 @@
 
 从图中我们可以看出，Webpack 可以将多种静态资源 js、css、less 转换成一个静态文件，减少了页面的请求。 
 
-![img](images/what-is-webpack.png)
+![img](./images/what-is-webpack.png)
 
 # 二、Webpack安装
 
